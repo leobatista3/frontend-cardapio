@@ -1,4 +1,4 @@
-#FRONT END CARDAPIO
+# FRONT END CARDAPIO
 
 Simples aplicação fullstack do zero usando Java Spring, React e PostgreSQL. Nesse repositório desenvolvemos o Frontend da nossa aplicação utilizando React, Typescript e React Query.
 
