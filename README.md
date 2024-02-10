@@ -1,3 +1,32 @@
+#FRONT END CARDAPIO
+
+Simples aplicação fullstack do zero usando Java Spring, React e PostgreSQL. Nesse repositório desenvolvemos o Frontend da nossa aplicação utilizando React, Typescript e React Query.
+
+Também exploramos o uso de Typescript para garantir uma melhor manutenibilidade do código. Além disso, conectamos com o backend já construído no repositório anterior, utilizando a biblioteca Axios para fazer as requisições HTTP e React Query para buscar, armazenar em cache, sincronizar e atualizar o estado do servidor na nossa aplicação.
+
+# FUNCIONALIDADE
+
+Existe um botão no projeto que serve para adicionar mais itens no cardápio, onde é informado o item, o preço e a URL para uma imagem.
+
+#FERRAMENTAS
+
+* Axios
+* VScode
+* React
+* Node
+* NPM
+* Typescript
+* React Query
+* Vite
+
+# IMAGENS
+
+![image](https://github.com/leobatista3/frontend-cardapio/assets/72052192/5b887306-9102-463e-8ab0-de09bf638237)
+
+![image](https://github.com/leobatista3/frontend-cardapio/assets/72052192/f56008f6-5fbc-4de9-b7fc-43405adcaf2f)
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
