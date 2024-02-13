@@ -1,6 +1,6 @@
 # FRONT END CARDAPIO
 
-Simples aplicação fullstack do zero usando Java Spring, React e PostgreSQL. Nesse repositório desenvolvemos o Frontend da nossa aplicação utilizando React, Typescript e React Query.
+Aplicação fullstack usando Java Spring, React e PostgreSQL. Nesse repositório desenvolvemos o Frontend da nossa aplicação utilizando React, Typescript e React Query.
 
 Também exploramos o uso de Typescript para garantir uma melhor manutenibilidade do código. Além disso, conectamos com o backend já construído no repositório anterior, utilizando a biblioteca Axios para fazer as requisições HTTP e React Query para buscar, armazenar em cache, sincronizar e atualizar o estado do servidor na nossa aplicação.
 
@@ -8,7 +8,7 @@ Também exploramos o uso de Typescript para garantir uma melhor manutenibilidade
 
 Existe um botão no projeto que serve para adicionar mais itens no cardápio, onde é informado o item, o preço e a URL para uma imagem.
 
-#FERRAMENTAS
+# FERRAMENTAS
 
 * Axios
 * VScode
